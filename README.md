@@ -14,3 +14,19 @@ Author: A.C. De la Parra-Guerra1,2,*, J. Truyol-Padilla3, C.A. García-Alzate4, 
 Date: 30 November 2024
 keywords: Keywords: Armed conflict, Environmental sustainability, Gender-based violence (GBV), Leadership, Socio-ecological approach, Women rights
 
+#Body-image Dissatisfaction of Female University Students and Psychological Preparedness for Beautification than Academicm Achievement in Delta State
+Description: Study investigating the dissatisfaction of female university students with their body image and how it can be prioritized over academic achievement
+Author: Dr. URIEN, James
+Date: February 2025
+Keywords: Keywords: Body-image Dissatisfaction, Psychological Preparedness, Academic
+Achievement, Nigeria, Beauty Standards, Mental, female
+
+#Intentional Female Homicide Dataset
+Description: Dataset on intentional feminicides
+Author: United Nations 
+Keywords: dataset, feminicide, women, girls, homicide, intentional
+
+#Out of school students 
+Description: Data on the percentage of students who are not attenting school around the world. 
+Author: UNICEF
+Keywords: out of school, girls, boys, children, world, international, education, access
