@@ -33,7 +33,7 @@ Name of Document: Afghanistan: Taliban restrictions on women’s rights intensif
 Author: UN News 
 Publisher: UN News 
 Date published: 2025
-File Format: link 
+File Format: URL
 Keywords: Taliban, Restriction, Women, Rights, Oppression, Issues, Prejudice
 Subject: Inequality and Persecution
 Language: English
@@ -43,7 +43,7 @@ Name of Document: Afghanistan: Taliban restrictions on women’s rights intensif
 Author: Amenesty
 Publisher: Amnesty 
 Date published: 2025
-File Format: link 
+File Format: URL 
 Keywords: Women, rights, issues, news 
 Subject: General Introduction to women's persecution
 Language: English
@@ -53,7 +53,7 @@ Name of Document: Women's Rights
 Author:BBC
 Publisher: BBC 
 Date published: n/a
-File Format: weblink
+File Format: URL
 Keywords: news, women, rights, update 
 Subject: General Introduction to women's persecution
 Language: English
@@ -63,7 +63,7 @@ Name of Document: Women's Rights
 Author:Le Figaro avec AFP
 Publisher: Le Figaro  
 Date published: March 2024 
-File Format: weblink
+File Format: URL
 Keywords: news, women, rights, update, ireland, 
 Subject: Good news about Women's right's survey in ireland
 Language: French
@@ -73,7 +73,7 @@ Name of Document: UK's Top Court Says Definition of a Woman Is Based on Biologic
 Author:Associate Press
 Publisher: Associated Press 
 Date published: April 16 202 5
-File Format: weblink
+File Format: URL
 Keywords: transwomen, gender, United Kingdom, UK, transgender, inequality 
 Subject: Prejudice against transwomen 
 Language: English
